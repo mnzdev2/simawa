@@ -1,9 +1,7 @@
-import 'dart:html';
-
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:flutter_localization/src/extension/string_extension.dart';
+import 'package:flutter_localization/flutter_localization.dart';
 import 'package:simawa/constants/app_constants.dart';
 import 'package:simawa/constants/route_constants.dart';
 
